@@ -1,0 +1,20 @@
+.background {
+  background: center no-repeat url(background.png);
+}
+
+.logo {
+  background-image: url(https://static-cdn.jtvnw.net/jtv_user_pictures/distortion2-profile_image-bb052bec695cc197-70x70.png);
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  background-image: url(splash.png);
+}
+
+.watermark {
+  background-image: url(watermark.png);
+  background-size: 57px 57px;
+} 
